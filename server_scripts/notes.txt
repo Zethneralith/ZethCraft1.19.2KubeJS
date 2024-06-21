@@ -1,0 +1,66 @@
+Progression:
+  Mechanical Age:
+    Create
+    Storage Drawers
+    Hexerei
+
+  Industrial Age:
+    Immersive Engineering
+    Immersive Petroleum
+  
+  Space Age:
+    Ad Astra
+    RFTools
+    Computercraft
+
+  Digital Age:
+    Mekanism
+    Refined Storage
+    RFTools Dimensions
+
+Other Dimensions:
+		The Undergarden
+		Blue Skies Everbright
+		Blue Skies Everdawn
+		Void
+		The Nether
+		The End
+		The Abyss
+		Ad Astra Moon
+		Ad Astra Moon Orbit
+		Ad Astra Mars
+		Ad Astra Mars Orbit
+    Abydos
+    Lantea
+
+    
+
+
+Mods to integrate:
+  [ ] Croptopia
+  [ ] ExtraDelight
+  [ ] Delightful
+  [ ] Vinery
+  [ ] Beach Party
+
+To Do List:
+	[ ] Ad Astra book needs to either be modified or removed... Perhaps replaced?
+	[ ] Balance Ad Astra's energy generation/requirements with IE and Mekanism...
+	[ ] Balance the multiple generators between eachother
+	[ ] The moon is covered in maggots
+	[ ] Replace all sheets/plates with Immersive Engineering plates, apart from Ad Astra foreign plates.
+	[ ] Integrate Croptopia with Farmer's Delight
+	[ ] Make other fermentables work in industrial fermenter
+	[ ] Hide disabled recipes in JEI
+
+General Ideas:
+  Consider adding Methane
+  Rubber can be made from either trees/latex or petroleum and methane.
+
+  Find a way to integrate Mekanism oxygen and Immersive Petroleum fuel to Ad Astra.
+
+Component Items:
+
+Metals:
+
+Alloys:
